@@ -19,7 +19,6 @@ This project was developed as part of the coursework for the module **Machine Le
 ## 📚 Table of Contents
 
 - [Project Overview](#-project-overview)
-- [Folder Structure](#-folder-structure)
 - [Technologies Used](#-technologies-used)
 - [Dataset Details](#-dataset-details)
 - [Getting Started](#-getting-started)
@@ -28,20 +27,6 @@ This project was developed as part of the coursework for the module **Machine Le
 - [References](#-references)
 - [Author](#-author)
 - [License](#-license)
-
----
-
-## 📁 Folder Structure
-
-```
-SVM-Tutorial/
-├── SVM_Tutorial_Formatted.docx         # Final formatted Word report
-├── Support_Vector_Machine_Tutorial.pdf # PDF version of the tutorial
-├── svm_visualizations.py               # Kernel comparison visualization script
-├── breast_cancer_svm_analysis.ipynb    # SVM implementation on real-world dataset
-├── README.md                           # This file
-└── LICENSE                             # License file
-```
 
 ---
 
@@ -131,5 +116,3 @@ python svm_visualizations.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
----
